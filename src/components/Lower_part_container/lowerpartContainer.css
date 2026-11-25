@@ -1,0 +1,10 @@
+.lower_part_section{
+    background-color: rgb(31 41 55);
+}
+.lower_part_container{
+    max-width: 1280px;
+    padding-block: 1rem;
+    margin-inline: auto;
+    border: 1px solid rgb(75 85 99);
+
+}
